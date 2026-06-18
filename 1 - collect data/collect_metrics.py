@@ -33,7 +33,7 @@ SERVICES = [
 
 METRIC_NAMES = ["num_pods", "cpu_usage", "mem_usage", "request_rate", "latency"]
 
-# Services expected to carry HTTP traffic — used for quality reporting only.
+# Services expected to carry HTTP traffic, used for quality reporting only.
 ACTIVE_SERVICES = ["cart", "catalogue", "payment", "shipping", "ratings", "user"]
 
 # Number of containers per pod in this cluster.
