@@ -101,3 +101,11 @@ To keep the repository lightweight, the following are not uploaded:
 - Raw and preprocessed datasets (`rl_dataset_sar_normalized.csv`)
 - Trained model checkpoints (`digital_twin_best.pth`, `ippo_v5_final.pth`)
 - XAI output plots and diagnosis reports
+
+---
+
+## Algorithm Comparison (Table 7)
+
+`6 - algorithm comparison/` contains the code, checkpoints and results for the
+five-algorithm comparison (IPPO v2, MAPPO, DQN, A2C, QMIX). Run `python analysis.py`
+inside that folder to reproduce Table 7.

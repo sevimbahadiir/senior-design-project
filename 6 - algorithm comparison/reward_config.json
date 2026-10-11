@@ -1,0 +1,50 @@
+{
+  "cart": {
+    "p25": 21.26,
+    "p50": 51.82,
+    "p75": 174.02,
+    "weight": 1.5,
+    "in_reward": true,
+    "n_valid": 14385
+  },
+  "catalogue": {
+    "p25": 12.98,
+    "p50": 28.1,
+    "p75": 96.32,
+    "weight": 1.5,
+    "in_reward": true,
+    "n_valid": 14387
+  },
+  "payment": {
+    "p25": 1999.96,
+    "p50": 2672.94,
+    "p75": 4215.77,
+    "weight": 0.0,
+    "in_reward": false,
+    "n_valid": 5924
+  },
+  "shipping": {
+    "p25": 10132.6,
+    "p50": 16948.92,
+    "p75": 26224.96,
+    "weight": 2.0,
+    "in_reward": true,
+    "n_valid": 14138
+  },
+  "ratings": {
+    "p25": 202.5,
+    "p50": 661.77,
+    "p75": 1429.43,
+    "weight": 0.5,
+    "in_reward": true,
+    "n_valid": 14375
+  },
+  "user": {
+    "p25": 6.66,
+    "p50": 11.62,
+    "p75": 26.87,
+    "weight": 1.0,
+    "in_reward": true,
+    "n_valid": 14367
+  }
+}

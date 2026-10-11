@@ -1,0 +1,6 @@
+torch
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn==1.8.0
